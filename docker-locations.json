@@ -11,7 +11,8 @@
       },
       "properties": {
         "name": "Docker, Brooklyn",
-        "address": "240 Kent Ave, K3-A3, Brooklyn, NY 11249"
+        "address": "240 Kent Ave, K3-A3, Brooklyn, NY 11249",
+        "marker-symbol": "building"
       }
     },{
       "type": "Feature",
@@ -23,7 +24,8 @@
       },
       "properties": {
         "name": "Docker, Madrid",
-        "address": "Calle de O'Donnell, 18, 8º I, 28009 Madrid, Spain"
+        "address": "Calle de O'Donnell, 18, 8º I, 28009 Madrid, Spain",
+        "marker-symbol": "building"
       }
     },{
       "type": "Feature",
@@ -36,7 +38,8 @@
       "properties": {
         "name": "Docker, San Francisco",
         "address": "144 Townsend, San Francisco, CA 94107, USA",
-        "marker-size": "large"
+        "marker-size": "large",
+        "marker-symbol": "building"
       }
     },{
       "type": "Feature",
@@ -48,7 +51,8 @@
       },
       "properties": {
         "name": "Docker, Paris",
-        "address": "15 Rue Taitbout, 75009 Paris, France"
+        "address": "15 Rue Taitbout, 75009 Paris, France",
+        "marker-symbol": "building"
       }
     },{"type": "Feature",
     "geometry": {
@@ -59,7 +63,8 @@
     },
     "properties": {
       "name": "Docker, London",
-      "address": "Studio 1, 1st floor, 258 Kingsland Road, London, E8 4DG"
+      "address": "Studio 1, 1st floor, 258 Kingsland Road, London, E8 4DG",
+        "marker-symbol": "building"
     }
    },{
       "type": "Feature",

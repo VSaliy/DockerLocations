@@ -35,7 +35,8 @@
       },
       "properties": {
         "name": "Docker, San Francisco",
-        "address": "144 Townsend, San Francisco, CA 94107, USA"
+        "address": "144 Townsend, San Francisco, CA 94107, USA",
+        "marker-size": "large"
       }
     },{
       "type": "Feature",

@@ -51,6 +51,7 @@
       }
     },{"type": "Feature",
     "geometry": {
+      "type": "Point",
       "coordinates": [
         -0.0767329,51.5383006
       ]

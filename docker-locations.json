@@ -71,11 +71,9 @@
       },
       "properties": {
         "name": "Docker, Indianapolis",
-        "address": "2250 West 86th Street, Suite 250, Indianapolis IN 46260, USA"
+        "address": "2250 West 86th Street, Suite 250, Indianapolis IN 46260, USA",
+        "marker-symbol": "building"
       }
     }
-],
-"properties": {
-  "marker-symbol": "building"
-}
+]
 }
